@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sample / Reference / Output files
+Sample/
+*.pdf
+*.zip
+*.xlsx
+대학원별 학위논문 체제.txt
+
+# Google API credentials
+credentials.json
+token.json
